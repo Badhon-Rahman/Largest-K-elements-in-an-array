@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563967852 source:c:\badhon\largest k elements in an array\main.cpp
+	<iostream>
+	<algorithm>
+
